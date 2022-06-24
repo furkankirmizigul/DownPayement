@@ -1,3 +1,3 @@
-# DownPayementSystem
+# DownPaymentSystem
 
-A simple down payement system created in Remix using Solidity. 
+A simple down payment system created in Remix using Solidity. 
